@@ -1,0 +1,4 @@
+.venv/
+transactional-data-analysis/.env
+classic-recommendation-system-approach/.env
+transactional-data-analysis/data/processed/*.parquet

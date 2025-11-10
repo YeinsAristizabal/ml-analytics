@@ -1,0 +1,44 @@
+[
+  {
+    "topic_id": 0,
+    "keywords": [
+      "referencia",
+      "prueba",
+      "contenido",
+      "preguntas",
+      "frecuentes",
+      "doc5",
+      "internas",
+      "reporte",
+      "doc3"
+    ]
+  },
+  {
+    "topic_id": 1,
+    "keywords": [
+      "contenido",
+      "prueba",
+      "referencia",
+      "usuarios",
+      "doc2",
+      "procedimiento",
+      "atencion",
+      "frecuentes",
+      "internas"
+    ]
+  },
+  {
+    "topic_id": 2,
+    "keywords": [
+      "referencia",
+      "prueba",
+      "contenido",
+      "gobierno",
+      "datos",
+      "principios",
+      "política",
+      "métricas",
+      "lineamientos"
+    ]
+  }
+]

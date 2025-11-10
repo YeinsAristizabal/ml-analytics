@@ -1,0 +1,21 @@
+antecedents,consequents,confidence
+"frozenset({'Esparcibles', 'Golosinas'})",frozenset({'Galletas'}),0.5243128964059197
+"frozenset({'Golosinas', 'Snacks Y Frutos Secos'})",frozenset({'Galletas'}),0.5092143549951503
+"frozenset({'Golosinas', 'Alimentos Larga Vida Y Conservas'})",frozenset({'Galletas'}),0.5042158516020236
+"frozenset({'Esparcibles', 'Bebidas Para Preparar'})",frozenset({'Galletas'}),0.5034674063800277
+"frozenset({'Bebidas Listas Para Consumir', 'Golosinas'})",frozenset({'Galletas'}),0.5010482180293501
+"frozenset({'Bebidas Para Preparar', 'Pastas'})",frozenset({'Galletas'}),0.4991596638655462
+"frozenset({'Bebidas Para Preparar', 'Golosinas'})",frozenset({'Galletas'}),0.49735760422783326
+"frozenset({'Golosinas', 'Cuidado Oral'})",frozenset({'Galletas'}),0.4956521739130435
+"frozenset({'Carnes Frias', 'Snacks Y Frutos Secos'})",frozenset({'Galletas'}),0.4944320712694878
+"frozenset({'Bebidas Para Preparar', 'Bebidas Listas Para Consumir'})",frozenset({'Galletas'}),0.4925187032418953
+"frozenset({'Bebidas Para Preparar', 'Snacks Y Frutos Secos'})",frozenset({'Galletas'}),0.4843492586490939
+"frozenset({'Carnes Frias', 'Bebidas Para Preparar'})",frozenset({'Galletas'}),0.4834080717488789
+"frozenset({'Carnes Frias', 'Golosinas'})",frozenset({'Galletas'}),0.48335974643423135
+"frozenset({'Alimentos Larga Vida Y Conservas', 'Snacks Y Frutos Secos'})",frozenset({'Galletas'}),0.48232848232848236
+"frozenset({'Bebidas Para Preparar', 'Alimentos Larga Vida Y Conservas'})",frozenset({'Galletas'}),0.46942800788954636
+"frozenset({'Cuidado Capilar F', 'Golosinas'})",frozenset({'Galletas'}),0.46469622331691296
+"frozenset({'Bebidas Para Preparar', 'Desodorantes'})",frozenset({'Galletas'}),0.44696969696969696
+"frozenset({'Bebidas Para Preparar', 'Aseo Del Hogar'})",frozenset({'Galletas'}),0.44327176781002636
+"frozenset({'Bebidas Para Preparar', 'Jabones'})",frozenset({'Galletas'}),0.4429160935350756
+"frozenset({'Bebidas Para Preparar', 'Cuidado Oral'})",frozenset({'Galletas'}),0.4365284974093264
