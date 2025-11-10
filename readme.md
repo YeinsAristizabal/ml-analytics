@@ -1,4 +1,4 @@
-# 📊 Analytics & Machine Learning Projects, Experiments, and Notebooks
+# 📊 Machine Learning & Analytics Projects, Experiments, and Notebooks
 
 ## 🎯 Project Objective
 
@@ -36,6 +36,3 @@ Focus areas include:
 ## 🧑‍💻 Author
 
 **Developed by [Yeins Aristizabal](https://www.linkedin.com/in/yeins-aristizabal/)**  
-
-🎥 [YouTube Channel]  
-💼 [Portfolio / GitHub Projects]  
