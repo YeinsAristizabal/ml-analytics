@@ -8,13 +8,11 @@ Focus areas include:
 
 - 📈 Data Analytics & Business Intelligence (BI)  
 - 🧮 Machine Learning (ML) & Predictive Modeling  
-- 📊 Data Visualization & Storytelling  
-- 🤖 AI-powered Decision Support Systems  
+- 📊 Data Visualization & Storytelling
 - 🧠 Statistical Modeling
 - 🔍 Exploratory Data Analysis (EDA)  
 - ⚙️ Feature Engineering & Model Optimization  
-- 🧰 MLOps & Model Deployment  
-- 💡 Insights Automation & Reporting  
+- 🧰 MLOps & Model Deployment 
 
 ---
 
